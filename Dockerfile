@@ -1,4 +1,4 @@
-FROM python
+FROM python:3.8
 
 ARG USER_EMAIL="david.alexandre@w6d.io"
 ARG USER_NAME="David ALEXANDRE"
